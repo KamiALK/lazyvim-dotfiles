@@ -5,3 +5,4 @@ echo "haciendo commit"
 git add .
 git commit -m "actualizacion"
 git push origin main
+echo "terminando de hacer cambios"
